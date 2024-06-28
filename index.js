@@ -30,4 +30,4 @@ if(xp[0] < 1000){
     }
 }
 
-console.log("Não sei se é assim, mas já agradeço, Muito obrigado!")
+console.log("Não sei se é assim, mas desde já agradeço, Muito obrigado!")
